@@ -1,8 +1,9 @@
 # Project 1 VM Networking
 
-**Table of Contents**
+## Table of Contents
 
 - [Project 1 VM Networking](#project-1-vm-networking)
+  - [Table of Contents](#table-of-contents)
   - [Topology](#topology)
   - [Spec](#spec)
     - [Basic](#basic)
