@@ -199,53 +199,91 @@ Med-FooLab(config-if)# ip ospf priority 1
 格式：`140.113.0.x`
 
 `NYCU-IT` - 1
+
 `CT-Core` - 2
+
 `YM-Core` - 3
 
+
 `CT-Dorm-Core` - 11
+
 `Dorm-10` - 12
+
 `Dorm-12` - 13
 
+
 `CS-Core1` - 21
+
 `CS-Core2` - 22
+
 `CS-Lab` - 23
+
 `CS-Colo` - 24
+
 `CS-Intra` - 25
 
+
 `Med-Core` - 31
+
 `Med-FooLab` - 32
+
 `Med-BarLab` - 33
 
+
 `YM-Dorm-Core` - 41
+
 `Dorm-B3` - 42
+
 `Dorm-G1` - 43
+
 
 ## Appendix B. Peering IP Address
 
 IT - CT 10.0.1.x
+
 IT - YM 10.0.2.x
+
 CT - TANet 10.0.10.x
+
 CT - Dorm 10.0.11.x
+
 CT - Core1 10.0.12.x
+
 CT - Core2 10.0.13.x
+
 YM - HiNet 10.0.20.x
+
 YM - Dorm 10.0.21.x
+
 YM - Med 10.0.22.x
 
+
 Dorm - 10 10.1.1.x
+
 Dorm - 12 10.1.2.x
 
+
 Core1 - Lab 10.2.11.x
+
 Core1 - Colo 10.2.12.x
+
 Core1 - Intra 10.2.13.x
+
 Core2 - Lab 10.2.21.x
+
 Core2 - Colo 10.2.22.x
+
 Core2 - Intra 10.2.23.x
 
+
 Med - Foo 10.3.1.x
+
 Med - Bar 10.3.2.x
 
+
 Dorm - B3 10.4.1.x
+
 Dorm - G1 10.4.2.x
+
 
 （`140.113.0.0/16` 網段請自行探索）
