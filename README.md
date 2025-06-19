@@ -2,7 +2,7 @@
 
 - 課程名稱 Course Name：網路規劃與管理實務 Network Planning and Management Practices
 - 授課教師 Lecturer：曾建超
-- 授課時間 Semester：113-1 2024 Spring
+- 授課時間 Semester：112-2 2024 Spring
 
 ---
 
